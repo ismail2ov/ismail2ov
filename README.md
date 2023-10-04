@@ -6,7 +6,7 @@
 <br/><br/><br/>
 
 ## GitHub stats
-<a href="https://github.com/ismail2ov"><img src="https://github-readme-stats.vercel.app/api?username=ismail2ov" alt="Ismail Ismailov's GitHub stats" /></a>
+<a href="https://github.com/ismail2ov"><img src="https://github-readme-stats-weld-phi-33.vercel.app/api?username=ismail2ov&show_icons=true" alt="Ismail Ismailov's GitHub stats" /></a>
 <br/><br/><br/>
     
 ## GitHub Visitors
